@@ -1,0 +1,246 @@
+Timestamp,What programme are you in?,Have you taken a course on machine learning?,Have you taken a course on information retrieval?,Have you taken a course on statistics?,Have you taken a course on databases?,What is your gender?,I have used ChatGPT to help me with some of my study assignments ,When is your birthday (date)?,How many students do you estimate there are in the room?,What is your stress level (0-100)?,How many hours per week do you do sports (in whole hours)? ,Give a random number,Time you went to bed Yesterday,What makes a good day for you (1)?,What makes a good day for you (2)?,birthday_timestamp,birth_month,stress_category,Sleep time (hours)
+4-1-2025 12:17:07,artificial intelligence,yes,unknown,0,1,male,1,,400,78.0,0,928393,1900-01-01 00:00:00,Food,Travel,1888-01-01,1.0,high,8.0
+4-1-2025 12:17:14,artificial intelligence,yes,1,1,1,female,1,,321,100.0,2,31.416,1900-01-01 00:30:00,sun,coffee,,,high,7.5
+4-1-2025 12:17:17,computer science,yes,1,0,1,male,unkown,,200,100.0,4,5,1900-01-01 00:30:00,Zonnetje,Aperol,,,high,7.5
+4-1-2025 12:17:21,computer science,yes,0,0,0,male,1,,350,60.0,6,37,1900-01-01 23:00:00,Sun,Sun,,,medium,
+4-1-2025 12:17:24,computer science,yes,1,0,1,male,1,,500,50.0,8,1,,-,-,,,medium,
+4-1-2025 12:17:26,computer science,no,unknown,0,0,gender fluid,unkown,,467,,8,0,,Chocolate,Bitterballen,,,,
+4-1-2025 12:17:26,computer science,no,0,0,1,female,1,,500,60.0,4,4,1900-01-01 00:00:00,Sun,Good food,,,medium,8.0
+4-1-2025 12:17:27,computer science,yes,0,1,1,male,unkown,,400,30.0,1,6656678,,good food,good grade,,,low,
+4-1-2025 12:17:28,artificial intelligence,no,0,0,1,female,1,,500,60.0,3,888,1900-01-01 22:37:00,Sun1,Sun2,,,medium,
+4-1-2025 12:17:30,computer science,no,0,0,1,gender fluid,unkown,,200,70.0,1,420420420420420420,,Work done good,Then smoke weed,,,high,
+4-1-2025 12:17:31,artificial intelligence,yes,1,1,1,female,1,,250,100.0,4,3,,Good food ,Nice company ,,,high,
+4-1-2025 12:17:31,computer science,yes,1,unknown,1,male,1,,400,20.0,"4,5","5,38299E+11",1900-01-01 00:00:00,Pizza,Beers,1999-01-01,1.0,low,8.0
+4-1-2025 12:17:35,other,yes,unknown,0,1,male,1,,345,60.0,8,1984,,Good food,Good sleep ,,,medium,
+4-1-2025 12:17:39,artificial intelligence,yes,1,0,1,male,0,,500,50.0,4,72,,Mama’s food,Dad’s card ,,,medium,
+4-1-2025 12:17:40,computer science,yes,1,unknown,1,female,0,,200,70.0,2,7,,Good work,Good sleep,,,high,
+4-1-2025 12:17:40,computer science,no,0,0,1,male,1,,500,100.0,0,94,,Passing courses,Sleeping,,,high,
+4-1-2025 12:17:41,artificial intelligence,yes,1,1,1,male,1,,400,50.0,7,13,,Drugs,More drugs,1982-10-05,10.0,medium,
+4-1-2025 12:17:43,artificial intelligence,no,0,0,1,female,1,,400,30.0,10,28,,Coffee,Sports,,,low,
+4-1-2025 12:17:44,computer science,yes,0,unknown,unknown,female,1,,200,100.0,0,9,1900-01-01 23:16:00,Nothing ,Nothing ,,,high,
+4-1-2025 12:17:44,computer science,yes,0,1,1,female,1,,200,70.0,0,8,,Passing grade,Credit in balance,,,high,
+4-1-2025 12:17:44,artificial intelligence,yes,1,0,1,male,1,,200,5.0,12,6372,1900-01-01 01:00:00,Sun,More sun,,,low,7.0
+4-1-2025 12:17:46,artificial intelligence,yes,1,0,1,male,1,,500,8.0,6,27,, , ,,,low,
+4-1-2025 12:17:49,artificial intelligence,yes,1,0,1,male,1,,300,100.0,10,9999,,Not having EDDA exam,Freetime,,,high,
+4-1-2025 12:17:50,artificial intelligence,no,0,0,0,male,1,,300,20.0,3,78,,Hanging with friends in the sun,Eating good food,,,low,
+4-1-2025 12:17:51,artificial intelligence,yes,0,0,1,female,1,,300,50.0,4,38,1900-01-01 23:30:00,Sun,Activity ,,,medium,
+4-1-2025 12:17:51,computational science,no,0,0,0,female,1,,500,15.0,12,19,1900-01-01 00:30:00,Good food ,Friends ,,,low,7.5
+4-1-2025 12:17:52,computer science,no,0,0,0,female,unkown,,100,75.0,6,777,,Sun,Cappuccino,,,high,
+4-1-2025 12:17:52,artificial intelligence,yes,0,0,1,female,1,,550,100.0,7,74,,Sun,Food,,,high,
+4-1-2025 12:17:53,artificial intelligence,yes,0,unknown,1,female,unkown,,180-200,2.0,4-5,99,1900-01-01 01:00:00,Sunny day,Hanging out with friends,,,low,7.0
+4-1-2025 12:17:53,artificial intelligence,yes,0,0,1,female,1,,300,3.0,10,25,,dance,company,,,low,
+4-1-2025 12:17:55,computer science,no,0,0,0,male,1,,300,55.0,2,27,1900-01-01 00:00:00,Spending time with Marc,Nice warm weather,,,medium,8.0
+4-1-2025 12:17:56,artificial intelligence,yes,0,0,0,male,1,,456,20.0,9,108,1900-01-01 23:57:00,Yoga,Delicious food,,,low,
+4-1-2025 12:17:56,artificial intelligence,yes,1,1,1,not willing to answer,1,,20*5*5,100.0,10,37,1900-01-01 05:00:00,Alcohol,More alcohol,,,high,3.0
+4-1-2025 12:17:57,computer science,no,unknown,0,1,female,0,,100,100.0,1,4738,,grade 10,win lottery ,,,high,
+4-1-2025 12:17:57,artificial intelligence,yes,1,1,1,male,1,,250,20.0,5,11011011,1900-01-01 23:30:00,Socialising ,When I've learned something new,,,low,
+4-1-2025 12:17:58,artificial intelligence,yes,0,0,0,male,1,,250,80.0,4,87,1900-01-01 04:00:00,doing sports,not having anxiety,,,high,4.0
+4-1-2025 12:17:58,computational science,yes,0,0,0,male,1,,487,30.0,7,39,1900-01-01 22:30:00,Sports,Free time,,,low,
+4-1-2025 12:17:59,finance,yes,0,0,0,male,1,,490,75.0,0,7,1900-01-01 00:45:00,Booking tickets,drinking beers,,,high,7.25
+4-1-2025 12:17:59,computer science,yes,1,0,1,female,1,,300,10.0,2,77945354356758979022123,1900-01-01 00:30:00,seeing friends,no work,,,low,7.5
+4-1-2025 12:18:01,human language technology,yes,0,unknown,1,female,1,,450,10.0,3,1934,1900-01-01 01:30:00,Nice weather,No work,,,low,6.5
+4-1-2025 12:18:03,artificial intelligence,no,0,0,1,female,1,,550,50.0,8,8,1900-01-01 00:30:00,Good food,Sun ,,,medium,7.5
+4-1-2025 12:18:04,artificial intelligence,yes,0,0,1,male,1,,350,45.0,4,69420,1900-01-01 23:30:00,Feeling energized,Reaching the goals I set for myself that day,2002-09-05,9.0,medium,
+4-1-2025 12:18:05,finance,yes,0,0,1,male,1,,300,5.0,8,14,,Sports,Friends,,,low,
+4-1-2025 12:18:06,computer science,yes,1,0,1,female,1,,450,89.0,7,69,1900-01-01 23:40:00,Bubble tea,Dog,,,high,
+4-1-2025 12:18:06,computer science,yes,1,0,1,male,0,,350,0.0,4,14,,No school,High grade,,,low,
+4-1-2025 12:18:06,artificial intelligence,yes,unknown,0,1,male,unkown,,200,49.0,7,420,,Warm,Sun,,,medium,
+4-1-2025 12:18:07,artificial intelligence,yes,1,0,1,male,1,,600,100.0,4,66,,Going to gym,Weed,,,high,
+4-1-2025 12:18:07,artificial intelligence,yes,1,0,1,male,1,,200,0.0,69,199389299284884742829r7747r8e9w929e94747uch38838udud8388383838e8e8e8e8e8e8d8du8s888x8d88d8u,1900-01-01 02:00:00,Ajax winning,Drugs,,,low,6.0
+4-1-2025 12:18:08,artificial intelligence,yes,1,0,1,female,1,,320,70.0,12,4,1900-01-01 23:59:00,Sun,Interacting with my loved ones,,,high,
+4-1-2025 12:18:08,computer science,no,0,0,1,male,1,,200,30.0,5,2324234234234432434,,nothing to do,can do anything,,,low,
+4-1-2025 12:18:08,computer science,yes,1,1,1,not willing to answer,unkown,,300,72.0,2,73,1900-01-01 00:00:00,Beer ,Wine ,,,high,8.0
+4-1-2025 12:18:10,computer science,yes,1,0,1,male,0,,350,5.0,9,-1,1900-01-01 01:00:00,A cold beer,Kissing the homies for good night ,,,low,7.0
+4-1-2025 12:18:11,artificial intelligence,yes,0,1,0,intersex,1,,450,60.0,3,358,1900-01-01 04:00:00,Happy,Friends,,,medium,4.0
+4-1-2025 12:18:11,artificial intelligence,no,0,0,1,female,1,,150,60.0,2,42,,Good meal,Sunny day,,,medium,
+4-1-2025 12:18:12,artificial intelligence,yes,1,1,1,not willing to answer,1,,375,6.0,10,61,,Az winning,Went to the gym,,,low,
+4-1-2025 12:18:12,artificial intelligence,yes,0,0,1,male,1,,200,13.0,6,7,1900-01-01 00:00:00,Sunny,Pilsie,,,low,8.0
+4-1-2025 12:18:13,artificial intelligence,yes,1,0,1,male,1,,350,0.0,5,69,,Free time,Videogames,,,low,
+4-1-2025 12:18:13,computer science,yes,0,0,0,female,1,,500,2.0,4,7,,"Sun, good food, being productive",Travelling,,,low,
+4-1-2025 12:18:13,artificial intelligence,no,0,0,unknown,male,1,,400,60.0,6,87,,Praying 5 times on time,Seeing my parents and my younger brother doing fine,,,medium,
+4-1-2025 12:18:14,artificial intelligence,no,0,0,1,male,1,,187,11.0,7,6969696,,Gym,Edda,,,low,
+4-1-2025 12:18:14,artificial intelligence,yes,1,0,1,female,unkown,,500,60.0,6,5,,sun,more sun ,,,medium,
+4-1-2025 12:18:14,computational science,no,0,0,1,female,1,,350,35.0,7,95836,,Getting enough sleep,Healthy breakfast,,,medium,
+4-1-2025 12:18:16,computer science,yes,unknown,0,unknown,male,0,,300,15.0,5,Random,,A good day,A bad day,,,low,
+4-1-2025 12:18:16,computer science,yes,1,0,1,female,1,,400,66.0,6,12,1900-01-01 23:30:00,Sunny weather ,Good grades ,,,medium,
+4-1-2025 12:18:17,artificial intelligence,yes,0,0,0,female,1,,80,80.0,6,47,,Sunny day spent with friends ,going to a rave,,,high,
+4-1-2025 12:18:17,artificial intelligence,no,0,1,1,not willing to answer,1,,500,100.0,2,89,,Sun,Sun,1900-01-01,1.0,high,
+4-1-2025 12:18:18,computer science,yes,1,unknown,1,female,1,,450,20.0,0,8,,Rain,Chocolate,,,low,
+4-1-2025 12:18:18,artificial intelligence,yes,0,0,0,male,1,,450,90.0,10,4141,,When the sun is out,Having the time to run,,,high,
+4-1-2025 12:18:19,computer science,yes,unknown,0,0,male,unkown,,220,40.0,9,15,1900-01-01 23:00:00,Get a lot of sleep(at least 8 hours),Eat good food,,,medium,
+4-1-2025 12:18:19,artificial intelligence,yes,1,0,1,non-binary,unkown,,250,30.0,4,6,,happiness ,sun,,,low,
+4-1-2025 12:18:20,artificial intelligence,yes,0,0,1,male,1,,430,30.0,8,37,1900-01-01 00:30:00,Doing things I want to do,Not having to do things I don't want to do,,,low,7.5
+4-1-2025 12:18:20,artificial intelligence,yes,1,0,1,female,1,,500,65.0,4,168,1900-01-01 23:00:00,sun,not encountering a stressful situation,1999-10-12,10.0,medium,
+4-1-2025 12:18:20,computational science,yes,0,0,1,male,1,,250,100.0,5,42,1900-01-01 23:00:00,Sex,Alcohol ,,,high,
+4-1-2025 12:18:20,computer science,yes,1,0,1,male,1,,350,42.0,10,5347833,,Good food and no econometrics courses,"Sun, exercise and beer",,,medium,
+4-1-2025 12:18:20,computer science,no,1,unknown,0,male,1,,380,100.0,10,7777,,weed,alcohol,,,high,
+4-1-2025 12:18:21,computer science,yes,0,0,1,female,1,,5,60.0,4,8,,Sunshine,Friends ,,,medium,
+4-1-2025 12:18:22,artificial intelligence,yes,0,0,unknown,male,1,,350,15.0,6,42,1900-01-01 23:00:00,Good weather,Chilling,,,low,
+4-1-2025 12:18:22,artificial intelligence,yes,1,0,1,female,1,,400,30.0,4,77,1900-01-01 23:55:00,Sunny weather,Good food,,,low,
+4-1-2025 12:18:26,computational science,yes,unknown,0,1,female,1,,330,47.0,12,30,1900-01-01 23:45:00,Good food,Sun,,,medium,
+4-1-2025 12:18:26,computational science,yes,0,0,1,female,1,,350,10.0,12,3,,sun,good food,,,low,
+4-1-2025 12:18:27,computer science,yes,1,unknown,0,male,1,,200,20.0,15,6,1900-01-01 01:30:00,delicious food,alcohol dose,,,low,6.5
+4-1-2025 12:18:27,artificial intelligence,yes,1,1,1,male,1,,250,20.0,3,42,1900-01-01 00:30:00,no responsibilities,nice weather,,,low,7.5
+4-1-2025 12:18:27,computer science,yes,1,0,1,male,1,,385,6.0,7,10,1900-01-01 00:00:00,Food,Sun,,,low,8.0
+4-1-2025 12:18:28,computational science,yes,0,0,0,female,1,,390,37.0,4,197367,,Sun ,Good food,,,medium,
+4-1-2025 12:18:28,computer science,yes,0,0,1,male,1,,375,50.0,4,1,,Travel,Active,,,medium,
+4-1-2025 12:18:30,artificial intelligence,yes,1,1,1,male,1,,195,0.0,10,7,1900-01-01 00:34:00,Not having looking for x ,Spots,,,low,7.433333333333334
+4-1-2025 12:18:31,computer science,no,0,1,0,gender fluid,1,,300,30.0,4,73,,Sun,Sub,,,low,
+4-1-2025 12:18:31,other,no,1,0,0,female,1,,234,40.0,7,8,1900-01-01 23:30:00,Coffee,Running in the sun,,,medium,
+4-1-2025 12:18:31,computer science,yes,1,0,1,other,1,,330,,0,37,,Got nothing to do,Interesting activities,,,,
+4-1-2025 12:18:32,computational science,yes,unknown,0,0,male,1,,480,75.0,3,7,,Achivements,Socialising,,,high,
+4-1-2025 12:18:33,artificial intelligence,yes,unknown,0,1,male,1,,291,79.0,0,74,,Being with someone i love,No assignment deadline!!!,,,high,
+4-1-2025 12:18:33,computer science,yes,1,1,1,male,unkown,,550,42.0,4,69,1900-01-01 00:40:00,Eating burrata,Eating pasta,,,medium,7.333333333333333
+4-1-2025 12:18:34,artificial intelligence,yes,0,0,1,female,1,,200,30.0,0,7,1900-01-01 01:30:00,My boyfriend,My friends ,,,low,6.5
+4-1-2025 12:18:34,computer science,yes,0,0,1,female,1,,500,100.0,3,3,1900-01-01 00:45:00,Cats,Sun,,,high,7.25
+4-1-2025 12:18:34,artificial intelligence,yes,1,unknown,1,intersex,unkown,,420,100.0,8,40,1900-01-01 23:35:00,-1,-2,,,high,
+4-1-2025 12:18:34,computer science,no,0,1,0,female,1,,200,10.0,8,11,1900-01-01 01:00:00,Delicious food,Nice weather,,,low,7.0
+4-1-2025 12:18:35,computer science,yes,1,0,1,male,unkown,,350,85.0,7,4,1900-01-01 01:30:00,A beer after a exam,Seeing my dog,,,high,6.5
+4-1-2025 12:18:35,artificial intelligence,yes,1,unknown,1,female,1,,289,40.0,6,"9,582E+12",1900-01-01 23:25:00,Sun,Good exam result,,,medium,
+4-1-2025 12:18:36,computer science,yes,1,0,1,female,unkown,,400,40.0,3,9,1900-01-01 21:45:00,Sleeping in,No assignments,,,medium,
+4-1-2025 12:18:36,computational science,yes,0,0,1,male,1,,350,25.0,20,40,1900-01-01 23:00:00,feeling good ,productive,,,low,
+4-1-2025 12:18:37,computer science,yes,0,0,0,male,1,,250,0.0,7,69,1900-01-01 23:00:00,Sun,Sports,,,low,
+4-1-2025 12:18:37,computational science,yes,0,0,0,male,unkown,,250,100.0,5,42,1900-01-01 00:30:00,Doggo,Food,,,high,7.5
+4-1-2025 12:18:37,artificial intelligence,yes,unknown,0,0,not willing to answer,1,,70000,100.0,10,7,1900-01-01 23:00:00,Good talks,Productivity,,,high,
+4-1-2025 12:18:38,computer science,yes,1,0,0,male,1,,250,60.0,4,89867,1900-01-01 23:30:00,Cats,Candy,,,medium,
+4-1-2025 12:18:38,computer science,yes,0,0,0,female,unkown,,600,40.0,0,658,,money,love,,,medium,
+4-1-2025 12:18:39,artificial intelligence,yes,0,0,1,male,1,,600,22.0,5,236,,eating good food,having a nice nap,,,low,
+4-1-2025 12:18:39,artificial intelligence,yes,1,unknown,1,female,1,,150,20.0,4,11,,Good sleep,No uni,,,low,
+4-1-2025 12:18:39,computer science,yes,0,unknown,1,not willing to answer,1,,300,13.0,6,1738,,People,Food,,,low,
+4-1-2025 12:18:40,computer science,yes,1,0,1,male,1,,425,5.0,3,4,1900-01-01 23:00:00,Hanging out with friends,No responsibilities,2004-04-04,4.0,low,
+4-1-2025 12:18:41,computer science,yes,0,unknown,1,male,1,,287,23.0,23,184365902143674301,1900-01-01 22:40:00,Sports,Friends,,,low,
+4-1-2025 12:18:41,computational science,yes,0,0,1,male,0,,300,100.0,0,7,1900-01-01 23:00:00,Not going to uni,No deadlines,2000-03-04,3.0,high,
+4-1-2025 12:18:41,artificial intelligence,no,0,1,1,male,1,,300,30.0,7,9,1900-01-01 00:30:00,Sports,Good sleep,,,low,7.5
+4-1-2025 12:18:43,computer science,no,0,1,0,female,1,,220,67.0,4,4,,I take the ADHD medicine ,go out with friends ,1999-11-04,11.0,high,
+4-1-2025 12:18:44,computational science,no,0,0,1,male,1,,300,1.0,7,33,1900-01-01 01:00:00,No assignments need to do,No lectures,,,low,7.0
+4-1-2025 12:18:44,computer science,yes,unknown,unknown,unknown,male,1,,500,69.0,10,69,1900-01-01 00:00:00,Sun,Friends,,,high,8.0
+4-1-2025 12:18:44,computer science,yes,0,unknown,1,male,0,,483,,3,64,,Sleep,Food,,,,
+4-1-2025 12:18:44,artificial intelligence,yes,1,0,1,male,1,,approx 300,75.0,4,314.159.265.359,1900-01-01 23:00:00,Passing EDDA,The sun,,,high,
+4-1-2025 12:18:44,artificial intelligence,yes,1,0,0,female,1,,450,60.0,1,44,1900-01-01 23:30:00,Nice weather,Free time,,,medium,
+4-1-2025 12:18:45,computer science,no,0,0,1,male,1,,240,100.0,2,8,1900-01-01 03:00:00,no studying,gaming,,,high,5.0
+4-1-2025 12:18:45,computer science,yes,1,0,1,male,1,,357,7.0,5,69420,,You :),You again :),,,low,
+4-1-2025 12:18:46,finance,yes,0,0,1,male,1,,500,40.0,2,1,1900-01-01 01:23:00,Making someone smile,Smiling,2000-10-01,10.0,medium,6.616666666666666
+4-1-2025 12:18:46,artificial intelligence,no,0,0,0,male,1,,297,69.0,6,426,,"Mild weather, no lectures, good food","No assignments, no exam stress",,,high,
+4-1-2025 12:18:46,computer science,no,unknown,unknown,unknown,male,unkown,,500,80.0,6,5,,eating,play ,,,high,
+4-1-2025 12:18:46,human language technology,yes,0,0,0,male,1,,300,20.0,8,891230124,1900-01-01 01:30:00,Friends,Activity and food,,,low,6.5
+4-1-2025 12:18:47,computer science,yes,unknown,0,1,female,1,,480,0.0,8,10,,Peace,Nature,,,low,
+4-1-2025 12:18:47,finance,yes,0,0,0,male,1,,350,20.0,8,124,1900-01-01 23:30:00,Sports,Focus,,,low,
+4-1-2025 12:18:48,computational science,no,0,0,0,male,1,,300,55.0,6,47,1900-01-01 00:31:00,Motorcycle ride,Social interaction,,,medium,7.483333333333333
+4-1-2025 12:18:48,artificial intelligence,yes,1,1,1,intersex,unkown,,500,100.0,3,420,,Studying,Learning,,,high,
+4-1-2025 12:18:48,computer science,yes,1,0,1,male,1,,366,57.0,6,9999999999,1900-01-01 00:40:00,go out of the house ,play a sport and instrument ,,,medium,7.333333333333333
+4-1-2025 12:18:49,artificial intelligence,no,1,0,1,male,1,,300,15.0,8,67,1900-01-01 00:30:00,Doing a sport,Playing my bass guitar,,,low,7.5
+4-1-2025 12:18:49,artificial intelligence,yes,0,0,0,male,1,,300,45.0,4,23,,beer,another beer,,,medium,
+4-1-2025 12:18:49,artificial intelligence,yes,0,unknown,1,male,1,,123,90.0,4,Ø,1900-01-01 03:54:00,grounded,"social, speding quality time with friends",,,high,4.1
+4-1-2025 12:18:49,computer science,yes,1,unknown,1,male,1,,300ish?,75.0,3,81,,Chilling with buddies,GAMING,,,high,
+4-1-2025 12:18:49,computer science,no,1,0,1,male,1,,450,100.0,168,3737,,Money,Less money,1921-12-12,12.0,high,
+4-1-2025 12:18:50,artificial intelligence,yes,1,0,1,male,1,,125,100.0,4.5,245819732157863251872726618812736168172715169485342146436918753,1900-01-01 23:00:00,good food,finish task,,,high,
+4-1-2025 12:18:51,artificial intelligence,no,0,0,1,male,1,,200,65.0,3,4,1900-01-01 02:00:00,Coffee,Motivation ,,,medium,6.0
+4-1-2025 12:18:51,artificial intelligence,yes,0,1,1,male,1,,378,0.0,2h,cleanMe12,,gezelligheid,see above,,,low,
+4-1-2025 12:18:52,artificial intelligence,yes,1,0,1,female,unkown,,Around 200,30.0,5,13,,Productivity,Nice weather,,,low,
+4-1-2025 12:18:53,artificial intelligence,yes,unknown,0,0,female,1,,400,40.0,10,3,,workout,sun,,,medium,
+4-1-2025 12:18:53,computer science,yes,1,1,1,male,unkown,,390,100.0,3,7,,A day outside,Jamming with the homies,,,high,
+4-1-2025 12:18:53,computer science,yes,1,0,0,male,1,,500,25.0,5,27,1900-01-01 23:30:00,Waking up refreshed,exercise,2001-11-01,11.0,low,
+4-1-2025 12:18:53,computer science,yes,0,unknown,0,male,1,,300,99.0,7,77,1900-01-01 01:30:00,no class,nice weather,,,high,6.5
+4-1-2025 12:18:53,computational science,no,0,1,0,male,1,,280,40.0,6,18282,1900-01-01 22:00:00,Nice weather,Nice girls,,,medium,
+4-1-2025 12:18:54,computer science,yes,0,0,0,female,unkown,,450,80.0,3,17,1900-01-01 00:30:00,sleeping,going for a walk,,,high,7.5
+4-1-2025 12:18:55,computer science,yes,1,1,1,male,0,,150,0.0,8,75,1900-01-01 05:00:00,Fun,Fun 2,,,low,3.0
+4-1-2025 12:18:55,computer science,no,unknown,1,1,male,1,,230,69.0,15,46.789.901.874.822.500,1900-01-01 22:00:00,Reaching my calory goal,Sleeping 8 hours,,,high,
+4-1-2025 12:18:55,computer science,yes,0,0,1,female,1,,250,50.0,0😭😭😭,3,1900-01-01 00:30:00,feeling productive,socializing ,,,medium,7.5
+4-1-2025 12:18:55,computer science,yes,0,unknown,1,male,unkown,,118,24.0,6,31,,Low stress,Progress,,,low,
+4-1-2025 12:18:56,computer science,no,1,1,1,female,1,,375,30.0,6,3,1900-01-01 23:30:00,Sun,-,,,low,
+4-1-2025 12:18:56,computer science,yes,1,1,1,female,1,,Idk,40.0,10,13,1900-01-01 23:30:00,Stick to my daily routine,Connect with some good person,2003-02-01,2.0,medium,
+4-1-2025 12:18:56,computer science,yes,0,0,1,not willing to answer,0,,460,30.0,zero,achtduizendvierhonderdvijfendertig komma zesenvijftig,,no lectures,sleeping,,,low,
+4-1-2025 12:18:56,computer science,yes,1,0,1,female,1,,200,30.0,5,"1,73425E+14",1900-01-01 22:30:00,Running in the morning,Meeting new people,,,low,
+4-1-2025 12:18:57,computer science,yes,1,0,1,male,1,,300,0.0,4,271828,,Good sleep,Free time,,,low,
+4-1-2025 12:18:57,artificial intelligence,yes,0,0,1,male,1,,400,10.0,10,21,1900-01-01 00:30:00,Sun and good food,Good food and sun,,,low,7.5
+4-1-2025 12:18:58,computer science,no,0,unknown,1,female,1,,250,65.0,2,9,,With friends I love,Sunny days,,,medium,
+4-1-2025 12:18:59,artificial intelligence,yes,0,0,0,female,1,,340,40.0,9,1672,1900-01-01 01:00:00,Friends,Drinks,,,medium,7.0
+4-1-2025 12:18:59,artificial intelligence,yes,0,0,0,female,1,,400,35.0,6,823,,Sunshine,Nice food,,,medium,
+4-1-2025 12:18:59,artificial intelligence,yes,0,0,1,female,0,,250,100.0,4,11,,Sun Shining,Drinking Matcha in the Sun,2001-03-01,3.0,high,
+4-1-2025 12:19:00,computational science,yes,0,0,0,female,1,,100,20.0,5,51,1900-01-01 00:00:00,sunshine,no exam,,,low,8.0
+4-1-2025 12:19:00,computer science,no,1,1,1,male,1,,450,40.0,10,8473,1900-01-01 00:00:00,The sun,Sports,,,medium,8.0
+4-1-2025 12:19:00,other,yes,0,0,1,female,1,,350,87.0,1,27.4,,getting some work done,time to make music,,,high,
+4-1-2025 12:19:01,computer science,yes,1,0,1,female,1,,450,10.0,3-4,22,1900-01-01 23:00:00,Sun,friends,,,low,
+4-1-2025 12:19:01,artificial intelligence,yes,0,0,1,female,1,,450,25.0,2,55678686,1900-01-01 02:00:00,Sunshine,Food,,,low,6.0
+4-1-2025 12:19:02,computer science,yes,1,0,1,female,1,,400,60.0,7,25,1900-01-01 23:00:00,being able to exercise,get outside,,,medium,
+4-1-2025 12:19:02,artificial intelligence,yes,1,0,1,male,1,,400,40.0,16,90,1900-01-01 22:30:00,Performing some sports,Positive people around me ,2001-05-03,5.0,medium,
+4-1-2025 12:19:02,computer science,yes,unknown,1,1,male,1,,380,40.0,12,858282281825663728188,1900-01-01 22:30:00,When the sun is out,What makes a good day for you (2)? ,2002-11-09,11.0,medium,
+4-1-2025 12:19:02,artificial intelligence,yes,0,0,1,female,1,,550,20.0,3,77,,Good Breakfast,Sunshine,,,low,
+4-1-2025 12:19:03,artificial intelligence,yes,1,unknown,1,male,1,,384,0.0,14,9,,productivity,music,,,low,
+4-1-2025 12:19:04,computer science,no,unknown,0,1,male,1,,450,30.0,6,76,1900-01-01 03:00:00,Videogames all day,Good food for free,,,low,5.0
+4-1-2025 12:19:05,finance,yes,unknown,0,0,male,1,,250,58.0,3,5,1900-01-01 01:30:00,Not a lot of assignments,Sports and guitar,,,medium,6.5
+4-1-2025 12:19:05,computer science,yes,1,0,0,male,unkown,,250,,7,00,1900-01-01 00:30:00,productivity,nice food,,,,7.5
+4-1-2025 12:19:06,finance,yes,0,0,0,male,unkown,,400,60.0,10,158,,Sports,Food,,,medium,
+4-1-2025 12:19:06,other,yes,0,0,0,gender fluid,0,,9000,100.0,200,Random,,Brazzers,BangBros,,,high,
+4-1-2025 12:19:06,computer science,yes,1,1,1,male,1,,311,11.0,4,10107472946391947974729472910472918462917472927492746291047272947263902716549294746829294739194737292847292748202747204726294,,Potato,Fries,2003-04-10,4.0,low,
+4-1-2025 12:19:06,artificial intelligence,yes,1,0,1,male,1,,300,15.0,20,78,1900-01-01 23:30:00,-,-,,,low,
+4-1-2025 12:19:06,computer science,yes,0,0,1,male,1,,150,30.0,7,“-69420”,1900-01-01 03:00:00,“rm -r .”,Bouldering and hanging with the homies,,,low,5.0
+4-1-2025 12:19:07,artificial intelligence,yes,1,0,1,female,1,,450,50.0,8,7,1900-01-01 23:00:00,Good food ,Nobody dies ,,,medium,
+4-1-2025 12:19:08,computational science,yes,0,0,0,female,unkown,,150,98.0,0,23,,no course,鲜锅兔,,,high,
+4-1-2025 12:19:08,artificial intelligence,yes,1,0,1,male,unkown,,400,10.0,8,9,1900-01-01 01:00:00,Nice weather,Free time,,,low,7.0
+4-1-2025 12:19:09,computer science,yes,1,unknown,1,male,unkown,,300,0.0,12,4,,Good food,Good weather,,,low,
+4-1-2025 12:19:10,computer science,yes,0,0,0,female,1,,350,30.0,2,9,1900-01-01 22:30:00,Food,More food,,,low,
+4-1-2025 12:19:11,artificial intelligence,yes,1,0,1,female,1,,380,23.0,3,39587,1900-01-01 00:30:00,Good food,Talking to friends,,,low,7.5
+4-1-2025 12:19:11,artificial intelligence,yes,1,0,1,male,unkown,,500,70.0,2,7,1900-01-01 23:00:00,Good food,Good sleep,,,high,
+4-1-2025 12:19:11,computer science,yes,0,0,0,male,1,,240,65.0,4,35,,Cola,Gaming,,,medium,
+4-1-2025 12:19:12,artificial intelligence,no,0,0,0,male,unkown,,400,40.0,3,60000000,,Productivity,Friends,,,medium,
+4-1-2025 12:19:13,computer science,yes,1,1,1,male,unkown,,220,,9,18,1900-01-01 02:00:00,Sun,Sun,,,,6.0
+4-1-2025 12:19:14,artificial intelligence,yes,1,0,1,female,1,,253,55.0,4,21,1900-01-01 01:03:00,Sun ,Laughter ,,,medium,6.95
+4-1-2025 12:19:14,computer science,yes,1,0,1,male,1,,300,25.0,11,3891736819378483829191037,1900-01-01 23:30:00,Personal record in the gym,Good food,,,low,
+4-1-2025 12:19:15,artificial intelligence,yes,0,0,unknown,female,1,,280,20.0,7,93,1900-01-01 00:22:00,That I feel content and happy,Doing something ,2002-05-05,5.0,low,7.633333333333334
+4-1-2025 12:19:17,computer science,no,1,1,0,male,1,,230,8.0,6,88,1900-01-01 01:37:00,Good food,Girlfriend,2001-04-10,4.0,low,6.383333333333334
+4-1-2025 12:19:17,computer science,yes,1,0,1,not willing to answer,1,,450,40.0,"4,6","5,76435E+11",1900-01-01 22:00:00,Cooking,Sun,,,medium,
+4-1-2025 12:19:17,artificial intelligence,no,0,0,1,female,1,,200,20.0,8,9,1900-01-01 00:00:00,Good sleep,Friends,2001-04-10,4.0,low,8.0
+4-1-2025 12:19:19,artificial intelligence,no,0,1,0,male,1,,350,60.0,6,7,1900-01-01 23:00:00,Good weather,Great food,,,medium,
+4-1-2025 12:19:21,finance,yes,0,1,0,male,1,,550,65.0,2,7,,Good Breakfast,Completing targetted task,,,medium,
+4-1-2025 12:19:22,computer science,yes,0,1,0,male,1,,425,20.0,3,17,,Sleep,Meditation,,,low,
+4-1-2025 12:19:22,artificial intelligence,yes,1,0,1,male,1,,300,15.0,9,35723490856,1900-01-01 23:00:00,Sports,Time with friends,2003-03-01,3.0,low,
+4-1-2025 12:19:22,computer science,yes,0,0,unknown,female,unkown,,350,70.0,4.5 hours,10,,having chocolate,Sun :)),,,high,
+4-1-2025 12:19:22,artificial intelligence,no,0,unknown,1,female,1,,500,70.0,1,2,1900-01-01 00:30:00,The sun,Good food,,,high,7.5
+4-1-2025 12:19:23,computer science,yes,1,0,1,male,1,,350,15.0,10,257261814499261618384638281776364,1900-01-01 23:30:00,Banana,Apple,,,low,
+4-1-2025 12:19:23,computer science,yes,0,0,1,male,1,,250,10.0,2,1683,1900-01-01 01:30:00,Not having to wake up early,yes,,,low,6.5
+4-1-2025 12:19:24,computer science,no,unknown,0,0,female,unkown,,200,60.0,3,13,1900-01-01 23:34:00,Sun,Rest,,,medium,
+4-1-2025 12:19:24,artificial intelligence,yes,unknown,0,1,female,1,,100,77.0,0,137,,Enough sleep,Good food,,,high,
+4-1-2025 12:19:24,computer science,yes,1,0,1,male,unkown,,-9999,,2,2147483649,1900-01-01 03:00:00,🤔,🤷‍♂️,2000-01-01,1.0,,5.0
+4-1-2025 12:19:26,computer science,unknown,0,0,1,male,0,,180,58.0,4,42,1900-01-01 01:00:00,Coffee,Science,,,medium,7.0
+4-1-2025 12:19:26,computer science,yes,1,unknown,1,female,1,,200,65.0,4,2,1900-01-01 23:30:00,Sunny weather,Good food,,,medium,
+4-1-2025 12:19:27,computer science,yes,0,unknown,0,male,unkown,,350,47.0,5,57,1900-01-01 00:33:00,Sun,Friends,,,medium,7.45
+4-1-2025 12:19:28,computer science,yes,0,0,0,female,1,,220,63.0,5,78,1900-01-01 22:30:00,Sun,Friends,,,medium,
+4-1-2025 12:19:28,artificial intelligence,yes,0,0,1,female,1,,230,80.0,4,4678,,a good breakfast ,good sleep,,,high,
+4-1-2025 12:19:30,computer science,yes,1,1,1,female,1,,458,70.0,1,47,1900-01-01 00:15:00,Sun,Family,2003-02-10,2.0,high,7.75
+4-1-2025 12:19:31,computer science,yes,0,0,0,male,1,,350,69.0,4,52739,1900-01-01 01:30:00,Hanging out with friends,Being productive,,,high,6.5
+4-1-2025 12:19:31,artificial intelligence,no,0,unknown,1,male,1,,210,50.0,2,74,1900-01-01 01:00:00,Boardgames with friends,Dinner with family,,,medium,7.0
+4-1-2025 12:19:31,computer science,no,0,0,0,male,1,,150,85.0,10,14,,Good weather,Stock trading profit,,,high,
+4-1-2025 12:19:31,computer science,yes,0,1,0,male,1,,234,75.0,4,9,1900-01-01 04:30:00,A fieldtrip with friends,A sunny picnic,,,high,3.5
+4-1-2025 12:19:32,computer science,yes,0,0,1,male,1,,450,100.0,0,18,1900-01-01 05:00:00,Sunshine ,Good food,,,high,3.0
+4-1-2025 12:19:34,artificial intelligence,yes,1,1,1,female,1,,400,75.0,3,573,1900-01-01 02:00:00,Nice food,Seeing friends,,,high,6.0
+4-1-2025 12:19:37,artificial intelligence,yes,1,1,0,male,unkown,,300,61.0,6,1999,1900-01-01 23:45:00,Good food,Fun people,,,medium,
+4-1-2025 12:19:37,artificial intelligence,yes,unknown,0,1,male,1,,420,20.0,12,81,1900-01-01 22:45:00,Doing sports,Meeting friends,,,low,
+4-1-2025 12:19:37,computer science,yes,unknown,0,1,female,1,,320,40.0,0,7,1900-01-01 04:00:00,Sleep in,Free,,,medium,4.0
+4-1-2025 12:19:38,computer science,no,0,0,1,female,1,,450,5.0,10,7,,being outside in the sun,eating good food,,,low,
+4-1-2025 12:19:39,computer science,yes,1,1,0,male,unkown,,150,10.0,10,1 000 000,,Nice weather,Nice friends,2001-12-11,12.0,low,
+4-1-2025 12:19:41,computer science,yes,0,0,1,female,1,,400,2.0,5,6,1900-01-01 09:30:00,Peace of mind,Good food,,,low,
+4-1-2025 12:19:43,computer science,yes,0,1,1,male,1,,500,20.0,5,3748,1900-01-01 23:15:00,Play fieldhockey,Enjoy the weather,,,low,
+4-1-2025 12:19:44,artificial intelligence,yes,1,1,1,male,1,,10000,69.0,14,69,1900-01-01 02:00:00,Finding a big bag of money (never happens),Petting a cat,,,high,6.0
+4-1-2025 12:19:45,computer science,yes,1,0,1,female,1,,450,70.0,2,89,,enough sleep time,sun,2000-01-01,1.0,high,
+4-1-2025 12:19:45,computer science,yes,0,0,0,male,1,,450,8.0,5,69,1900-01-01 02:15:00,Friends,No school,1999-08-10,8.0,low,5.75
+4-1-2025 12:19:45,artificial intelligence,yes,0,0,1,female,1,,330,40.0,3,18,1900-01-01 01:00:00,Nice weather,Seeing my loved ones ,,,medium,7.0
+4-1-2025 12:19:50,artificial intelligence,yes,1,0,1,male,1,,387,2.0,13,73,,snorkeling,eating,,,low,
+4-1-2025 12:19:50,artificial intelligence,yes,1,0,1,female,1,,300,20.0,4,87,1900-01-01 00:00:00,Reading,F1,,,low,8.0
+4-1-2025 12:19:51,artificial intelligence,yes,0,0,0,female,1,,380,50.0,8,2115,1900-01-01 00:22:00,"good, sunny weather",spending time with my friends,,,medium,7.633333333333334
+4-1-2025 12:19:53,artificial intelligence,yes,1,0,1,female,1,,500,85.0,3,15,1900-01-01 00:30:00,Seeing friends,No academic stress,2002-07-10,7.0,high,7.5
+4-1-2025 12:19:57,computer science,yes,0,1,1,female,1,,350,70.0,1,2,,Sunny weather,Good food,2002-10-10,10.0,high,
+4-1-2025 12:20:00,artificial intelligence,yes,1,1,0,male,1,,400,33.0,2,9277466,,Baking,Hiking,,,low,
+4-1-2025 12:20:02,artificial intelligence,yes,1,0,1,female,1,,350,20.0,3,4,1900-01-01 23:00:00,Seeing my friends,Sunny weather,,,low,
+4-1-2025 12:20:06,artificial intelligence,yes,0,0,0,male,1,,380,40.0,2,947362,1900-01-01 21:30:00,Chocolate ,Sun,,,medium,
+4-1-2025 12:20:07,artificial intelligence,yes,1,1,1,male,1,,320,15.0,7,69,1900-01-01 23:30:00,Good weather ,Company ,2003-05-06,5.0,low,
+4-1-2025 12:20:14,computer science,no,0,unknown,1,male,unkown,,520,50.0,10,123,,sun,wind,,,medium,
+4-1-2025 12:20:31,computer science,yes,1,unknown,1,female,1,,450,69.0,6,19898901,,Music,Reading,,,high,
+4-1-2025 12:20:34,computer science,yes,1,0,1,male,1,,350,99.0,5,3951,1900-01-01 00:54:00,No nearing deadlines,Good weather,2001-05-09,5.0,high,7.1
+4-1-2025 12:20:43,artificial intelligence,no,1,0,1,male,1,,550,40.0,0,0,1900-01-01 04:00:00,Free time,I get a lot done,,,medium,4.0
+4-1-2025 12:20:46,computer science,yes,unknown,0,1,not willing to answer,unkown,,-3,,&&&&,😅,,👁️‍🗨️,🥴,,,,
+4-1-2025 12:20:47,computer science,yes,1,0,1,male,unkown,,460,60.0,5,56,1900-01-01 01:30:00,Good gym session ,Sun and a chest PR,,,medium,6.5
+4-1-2025 12:21:33,computer science,yes,0,1,1,male,unkown,,300,35.0,5,69,,beer in the sun,2 beers in the sun,,,medium,
+4-1-2025 12:21:34,computer science,yes,1,0,1,female,1,,450,75.0,5,88,,Have free time to chill,Smoke,,,high,
+4-1-2025 12:21:51,computational science,no,0,0,1,male,0,,200,45.0,1,42,1900-01-01 02:00:00,not wake up tired,get at least one thing done,2001-02-05,2.0,medium,6.0
+4-1-2025 12:29:47,unknown,unknown,0,1,0,intersex,0,,-1,100.0,2149483649,999999999999999999999889988888888877777888999999999999988888889999999999999999999998899888888888777778889999999999999888888899999999999999999999988998888888887777788899999999999998888888,,()€€€€& ../rm -rf ~/* hdhdhdh ,Alcohol,,,high,
