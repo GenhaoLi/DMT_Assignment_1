@@ -119,10 +119,10 @@ rf_grid.fit(X_train, y_train)
 print("best rf params:", rf_grid.best_params_)
 y_pred_rf_optimized = rf_grid.predict(X_test)
 print_metrics(y_test, y_pred_rf_optimized)
-##%% md
 #%% md
-# ##%%
+# ### K-Nearest Neighbors
 #%%
+from sklearn.neighbors import KNeighborsClassifier
 from sklearn.metrics import classification_report, accuracy_score, f1_score
 
 knn = KNeighborsClassifier(n_neighbors=3)
@@ -132,12 +132,12 @@ y_pred_knn = knn.predict(X_test)
 # transform back to the original labels
 y_pred_knn_labels = le_program.inverse_transform(y_pred_knn)
 pd.Series(y_pred_knn_labels).value_counts()
-##%%
 #%%
-##%% md
+print_metrics(y_test, y_pred_knn)
 #%% md
-# ##%%
+# Optimize the hyperparameters, using `GridSearchCV`, could take 1 minutes
 #%%
+knn_param_grid = {
     'n_neighbors': [3],
     # 'n_neighbors': list(range(1, 20, 2)),
     # 'weights': ['uniform', 'distance'],
@@ -162,25 +162,25 @@ print("best knn params:", knn_grid.best_params_)
 print("best knn score:", knn_grid.best_score_)
 y_pred_knn_optimized = knn_grid.predict(X_test)
 print_metrics(y_test, y_pred_knn_optimized)
-##%% md
 #%% md
+# ## Performance
 # Metrics:
 # - Accuracy: overall correctness
 # - F1 Score (weighted): accounts for class imbalance, since class `other` is much less than the other two classes
 # - `classification_report` shows precision, recall, F1 and support for each class
-# ##%% md
 #%% md
-# ##%%
+# ### Random Forest Performance
 #%%
-##%% md
+print_metrics(y_test, y_pred_rf_optimized)
 #%% md
-# ##%%
+# ### K-Nearest Neighbors Performance
 #%%
-##%% md
+print_metrics(y_test, y_pred_knn_optimized)
 #%% md
-# ##%%
-# results = {
+# ### Performance Comparison
 #%%
+results = {
+    "Model": ["Random Forest", "KNN"],
     "Best Params": [rf_grid.best_params_, knn_grid.best_params_],
     "Accuracy": [accuracy_score(y_test, y_pred_rf_optimized), accuracy_score(y_test, y_pred_knn_optimized)],
     "F1 (weighted)": [f1_score(y_test, y_pred_rf_optimized, average='weighted'), f1_score(y_test, y_pred_knn_optimized, average='weighted')],
