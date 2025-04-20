@@ -63,22 +63,66 @@ rf = RandomForestClassifier(
     class_weight='balanced',
     random_state=1,
 )
+rf = RandomForestClassifier(
+    class_weight='balanced',
+    max_depth=5,
+    max_features='sqrt',
+    min_samples_leaf=1,
+    min_samples_split=5,
+    n_estimators=30,
+    random_state=1
+)
 rf.fit(X_train, y_train)
 
 y_pred_rf = rf.predict(X_test)
 y_pred_rf_labels = le_program.inverse_transform(y_pred_rf)
 pd.Series(y_pred_rf_labels).value_counts()
-#%% md
-# We adjusted the hyperparameters a bit to avoid the case where no `other` class is predicted, which could also cause insufficient data for `classification_report`
-# 
 #%%
-print("Accuracy:", accuracy_score(y_test, y_pred_rf))
-print("F1 Score (macro):", f1_score(y_test, y_pred_rf, average='weighted'))
-print("\nClassification Report:\n", classification_report(y_test, y_pred_rf))
-#%% md
-# ### K-Nearest Neighbors
+def print_metrics(y_test, y_pred):
+    print("Accuracy:", accuracy_score(y_test, y_pred))
+    print("F1 Score (weighted):", f1_score(y_test, y_pred, average='weighted', zero_division=0))  # set `zero_division` to 0 to handle case when there are no true positives
+    print("\nClassification Report:\n", classification_report(y_test, y_pred, zero_division=0))
 #%%
-from sklearn.neighbors import KNeighborsClassifier
+print_metrics(y_test, y_pred_rf)
+#%% md
+# Optimize the hyperparameters, using `GridSearchCV`, could take 2 minutes
+#%%
+from sklearn.model_selection import GridSearchCV
+
+rf_param_grid = {
+    'n_estimators': list(range(10, 300, 20)),
+    'max_depth': [None] + list(range(5, 30, 5)),
+    'min_samples_split': list(range(1, 10, 2)),
+    'min_samples_leaf': list(range(1, 5)),
+    'max_features': ['sqrt', 'log2'],
+    'criterion': ['gini', 'entropy'],
+}
+
+# These were the best params in one of our searches, but it is somehow not found after we expand the param grid
+# ANSWER: OVERFITTING
+rf_param_best = {'class_weight': 'balanced', 'max_depth': 5, 'max_features': 'sqrt', 'min_samples_leaf': 1, 'min_samples_split': 5, 'n_estimators': 30} # Acc: 0.6122448979591837, F1: 0.6140872154332858
+rf_param_grid = {key: [value] for key, value in rf_param_best.items()}
+for k, v in rf_param_best.items():
+    if v not in rf_param_grid[k]:
+        print(f"param {k} not in grid search")
+
+rf_grid = GridSearchCV(
+    RandomForestClassifier(random_state=1, class_weight='balanced'),
+    rf_param_grid,
+    scoring='f1_weighted',
+    cv=10,
+    n_jobs=-1,
+    verbose=1
+)
+rf_grid.fit(X_train, y_train)
+
+print("best rf params:", rf_grid.best_params_)
+y_pred_rf_optimized = rf_grid.predict(X_test)
+print_metrics(y_test, y_pred_rf_optimized)
+##%% md
+#%% md
+# ##%%
+#%%
 from sklearn.metrics import classification_report, accuracy_score, f1_score
 
 knn = KNeighborsClassifier(n_neighbors=3)
@@ -88,24 +132,58 @@ y_pred_knn = knn.predict(X_test)
 # transform back to the original labels
 y_pred_knn_labels = le_program.inverse_transform(y_pred_knn)
 pd.Series(y_pred_knn_labels).value_counts()
+##%%
+#%%
+##%% md
 #%% md
-# ## Performance
+# ##%%
+#%%
+    'n_neighbors': [3],
+    # 'n_neighbors': list(range(1, 20, 2)),
+    # 'weights': ['uniform', 'distance'],
+    # 'p': [1, 2],
+    'leaf_size': [30],
+    # 'leaf_size': list(range(10, 50, 2)),
+    # 'algorithm': ['auto', 'ball_tree', 'kd_tree', 'brute'],
+    # 'metric': ['euclidean', 'manhattan', 'chebyshev', 'minkowski'],
+}
+
+knn_grid = GridSearchCV(
+    KNeighborsClassifier(),
+    knn_param_grid,
+    scoring='f1_weighted',
+    cv=10,
+    n_jobs=-1,
+    verbose=1
+)
+knn_grid.fit(X_train, y_train)
+
+print("best knn params:", knn_grid.best_params_)
+print("best knn score:", knn_grid.best_score_)
+y_pred_knn_optimized = knn_grid.predict(X_test)
+print_metrics(y_test, y_pred_knn_optimized)
+##%% md
+#%% md
 # Metrics:
 # - Accuracy: overall correctness
 # - F1 Score (weighted): accounts for class imbalance, since class `other` is much less than the other two classes
 # - `classification_report` shows precision, recall, F1 and support for each class
-#%%
-def print_metrics(y_test, y_pred):
-    print("Accuracy:", accuracy_score(y_test, y_pred))
-    print("F1 Score (macro):", f1_score(y_test, y_pred, average='weighted'))
-    print("\nClassification Report:\n", classification_report(y_test, y_pred))
+# ##%% md
 #%% md
-# ### Random Forest Performance
+# ##%%
 #%%
-print_metrics(y_test, y_pred_rf)
+##%% md
 #%% md
-# ### K-Nearest Neighbors Performance
+# ##%%
 #%%
-print_metrics(y_test, y_pred_knn)
+##%% md
 #%% md
-# TODO: optimization of the hyperparameters, using `GridSearchCV` or manually?
+# ##%%
+# results = {
+#%%
+    "Best Params": [rf_grid.best_params_, knn_grid.best_params_],
+    "Accuracy": [accuracy_score(y_test, y_pred_rf_optimized), accuracy_score(y_test, y_pred_knn_optimized)],
+    "F1 (weighted)": [f1_score(y_test, y_pred_rf_optimized, average='weighted'), f1_score(y_test, y_pred_knn_optimized, average='weighted')],
+}
+
+pd.DataFrame(results)
